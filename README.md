@@ -1,9 +1,5 @@
 # Recon Methodology
 
-# Little Intro
-
-I'm vignesh an application security specialist and in my spare time I love to hunt for bugs. I just started with bug bounty (4 weeks ago) on HackerOne and like most of you guys, I want to share my resources and other things. I consider myself to be in the beginner phase of the bug bounty sector but I try to learn every day. So if you have any suggestions, advice, tips, tricks, tools let me know !
-
 This document is based on my own research but mostly on the talk of [Jhaddix](https://twitter.com/Jhaddix) - __The Bug Hunters Methodology v3__.
 
 Why am I sharing this? Everything I've learned is from guys like __Jhaddix__. These people shares all the knowledge they have, to give other hackers to opportunity to grow.
