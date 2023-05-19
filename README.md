@@ -2,7 +2,7 @@
 
 # Little Intro
 
-I'm Quinten Van Ingh an application security specialist and in my spare time I love to hunt for bugs. I just started with bug bounty (4 weeks ago) on HackerOne and like most of you guys, I want to share my resources and other things. I consider myself to be in the beginner phase of the bug bounty sector but I try to learn every day. So if you have any suggestions, advice, tips, tricks, tools let me know !
+I'm vignesh an application security specialist and in my spare time I love to hunt for bugs. I just started with bug bounty (4 weeks ago) on HackerOne and like most of you guys, I want to share my resources and other things. I consider myself to be in the beginner phase of the bug bounty sector but I try to learn every day. So if you have any suggestions, advice, tips, tricks, tools let me know !
 
 This document is based on my own research but mostly on the talk of [Jhaddix](https://twitter.com/Jhaddix) - __The Bug Hunters Methodology v3__.
 
